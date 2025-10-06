@@ -46,8 +46,8 @@ shiras-cakes/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/cakesbyshiratzur/shiras-cakes-nextjs.git
-   cd shiras-cakes-nextjs
+   git clone https://github.com/cakesbyshiratzur/shiras-cakes.git
+   cd shiras-cakes
    ```
 
 2. **Install dependencies**
